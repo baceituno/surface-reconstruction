@@ -1,5 +1,5 @@
 # Surface Reconstruction
-Surface Reconstruction from sparse point-clouds module developed for the U.S.B. Mechatronics Group.
+Surface Reconstruction from sparse point-clouds module developed for the U.S.B. Mechatronics Research Group.
 
 # Requirements
 
